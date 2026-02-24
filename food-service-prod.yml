@@ -4,5 +4,5 @@ server:
 info:
   app:
     name: "Food Service"
-    description: "This is the Food Service under production.This configuration is located in config-server.GIT Version"
+    description: "This is the Food Service under production.This configuration is located in config-server.GIT Version.Give 100% this time no excuses."
     version: "{cipher}5c6e00456924d99a3aaa3e0d1a9d86e915bc8fdb8dda0cd3e3273e0631f62c141a109f6ae330196db18045e506ed4cb63f116b248d4dbf97c40e6d9efa0a7eac"
